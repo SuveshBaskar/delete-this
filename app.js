@@ -1,7 +1,7 @@
 console.log("Hello Wold");
 
-if(true){
-	console.log("true")
+if(10 > 5){
+	console.log("Greater")
 } else {
-	console.log("false")
+	console.log("Lesser")
 }
