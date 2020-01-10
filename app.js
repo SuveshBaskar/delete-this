@@ -1,7 +1,3 @@
-console.log("Hello Wold");
+console.log("Hello World");
 
-if(10 > 5){
-	console.log("Greater")
-} else {
-	console.log("Lesser")
-}
+console.log("Hello World Again")
